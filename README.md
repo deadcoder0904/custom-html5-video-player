@@ -1,5 +1,11 @@
 # custom-html5-video-player
 
+> :sparkles: Custom HTML5 video player made using HTML5, CSS3 & VANILLA JS :alien:
+
+# Screenshot
+
+![Pulp Fiction](http://imgur.com/31Pb7pR.png)
+
 ## License
 
 [MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
